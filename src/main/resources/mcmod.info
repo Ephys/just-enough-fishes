@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "jefishes",
+    "name": "Just Enough Fishes",
+    "description": "JEI addon for fishing.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["ephys"],
+    "credits": "Botania & Just Enough Resources were invaluable in understanding how the JEI API works",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
